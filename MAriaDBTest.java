@@ -14,7 +14,7 @@ INSERT INTO tbl_nominativi (cognome) VALUES ('Rossi');
 INSERT INTO tbl_nominativi (cognome) VALUES ('Bianchi');
 
 */
-
+//COMMENTO EROS
 
 import java.sql.*;
 
